@@ -1,4 +1,4 @@
-# Discount-Calculator-Support
+# Terms of Use
 
 Terms of Use for Discount Calculator App
 Last updated: 15/08/2024
